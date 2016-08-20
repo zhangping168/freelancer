@@ -1,0 +1,127 @@
+{
+  "timelines": [
+    {
+      "title": "2015 - Present",
+      "img": "img/about/1.jpg",
+      "heading": "Freelance + Consultancy Services",
+      "body": "Providing consultancy services for web / mobile development for large scale CMS websites or client-side web apps."
+    },
+    {
+      "title": "2012 - 2015",
+      "img": "img/about/1.jpg",
+      "heading": "Font-end Developer | Isobar Canada",
+      "body": "Collaborated with art director, project managers and designers to develop websites, social promotion campaigns for Canadian Art, J.P.Wiser's, mackenzie investments and Mattel Canada."
+    },
+    {
+      "title": "2012",
+      "img": "img/about/1.jpg",
+      "heading": "Contractor | Pitney Bowes Toronto",
+      "body": "Contracted under IT Angecy, working on site with clients, resposbile for web application compatibility testing and issue fixing."
+    },
+    {
+      "title": "2010-2011",
+      "img": "img/about/1.jpg",
+      "heading": "Web Master | Open Jaw Network",
+      "body": "Responsible for two websites maintenance and features updates including Front-end and Back-end."
+    }
+  ],
+  "services": [
+    {
+      "imgclass": "fa-shopping-cart",
+      "heading": "E-Commerce",
+      "text": "E-Commerce : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    },
+    {
+      "imgclass": "fa-laptop",
+      "heading": "Responsive Design",
+      "text": "Responsive Design : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    },
+    {
+      "imgclass": "fa-lock",
+      "heading": "Web Security",
+      "text": "Web Security : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    }
+  ],
+  "portfolios": [
+    {
+      "link": "#portfolioModal1",
+      "img": "img/portfolio/roundicons.png",
+      "title": "Round Icons",
+      "description": "Graphic Design"
+    },
+    {
+      "link": "#portfolioModal2",
+      "img": "img/portfolio/startup-framework.png",
+      "title": "Startup Framework",
+      "description": "Website Design"
+    },
+    {
+      "link": "#portfolioModal3",
+      "img": "img/portfolio/treehouse.png",
+      "title": "Treehouse",
+      "description": "Website Design"
+    },
+    {
+      "link": "#portfolioModal4",
+      "img": "img/portfolio/golden.png",
+      "title": "Golden",
+      "description": "Website Design"
+    },
+    {
+      "link": "#portfolioModal5",
+      "img": "img/portfolio/escape.png",
+      "title": "Escape",
+      "description": "Website Design"
+    },
+    {
+      "link": "#portfolioModal6",
+      "img": "img/portfolio/dreams.png",
+      "title": "Dreams",
+      "description": "Website Design"
+    }
+  ],
+  "portfolioDetails": [
+    {
+      "id": "portfolioModal1",
+      "title": "project title 1",
+      "img": "img/portfolio/roundicons-free.png",
+      "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+      "url": "http://designmodo.com/startup/?u=787"
+    },
+    {
+      "id": "portfolioModal2",
+      "title": "project title 3",
+      "img": "img/portfolio/roundicons-free.png",
+      "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+      "url": "http://designmodo.com/startup/?u=787"
+    },
+    {
+      "id": "portfolioModal3",
+      "title": "project title 3",
+      "img": "img/portfolio/roundicons-free.png",
+      "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+      "url": "http://designmodo.com/startup/?u=787"
+    },
+    {
+      "id": "portfolioModal4",
+      "title": "project title 4",
+      "img": "img/portfolio/roundicons-free.png",
+      "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+      "url": "http://designmodo.com/startup/?u=787"
+    },
+    {
+      "id": "portfolioModal5",
+      "title": "project title 5",
+      "img": "img/portfolio/roundicons-free.png",
+      "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+      "url": "http://designmodo.com/startup/?u=787"
+    },
+    {
+      "id": "portfolioModal6",
+      "title": "project title 6",
+      "img": "img/portfolio/roundicons-free.png",
+      "description": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+      "url": "http://designmodo.com/startup/?u=787"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+1.diretive element only can contain one single root if setting "replace: true"
+2.use element attribute to pass data 
+3.loop data from controler
+
+timeline-image="img/about/1.jpg"
+timeline-heading="Our Humble Beginnings"
+timeline-body="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+
+ionic for ihavejokes.com
+news theme template
