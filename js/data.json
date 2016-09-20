@@ -42,42 +42,42 @@
       "text": "Reliable service for Known Web Security Vulnerabilities and Unknown Vulnerabilities, Providing affordable and quick solution for small and large size orgnizations"
     }
   ],
-  "portfolios": [
+ "portfolios": [
     {
       "link": "#portfolioModal1",
-      "img": "img/portfolio/roundicons.png",
-      "title": "1 Round Icons",
-      "description": "Graphic Design"
+      "img": "img/portfolio/01.jpg",
+      "title": "J.P. Wiser’s Award-Winning Canadian Whisky",
+      "description": "Website Responsive Design"
     },
     {
       "link": "#portfolioModal2",
-      "img": "img/portfolio/startup-framework.png",
-      "title": "2 Startup Framework",
-      "description": "Website Design"
+      "img": "img/portfolio/02.jpg",
+      "title": "Mackenzie Investments",
+      "description": "Website Responsive Design"
     },
     {
       "link": "#portfolioModal3",
-      "img": "img/portfolio/treehouse.png",
-      "title": "3 Treehouse",
-      "description": "Website Design"
+      "img": "img/portfolio/03.jpg",
+      "title": "Canon: Your Baby Moments",
+      "description": "Website Responsive Design"
     },
     {
       "link": "#portfolioModal4",
-      "img": "img/portfolio/golden.png",
-      "title": "4 Golden",
-      "description": "Website Design"
+      "img": "img/portfolio/04.jpg",
+      "title": "Canadian Art",
+      "description": "Website Responsive Design"
     },
     {
       "link": "#portfolioModal5",
-      "img": "img/portfolio/escape.png",
-      "title": "5 Escape",
-      "description": "Website Design"
+      "img": "img/portfolio/05.jpg",
+      "title": "Mattel.ca",
+      "description": "Website Redesign"
     },
     {
       "link": "#portfolioModal6",
-      "img": "img/portfolio/dreams.png",
-      "title": "6 Dreams",
-      "description": "Website Design"
+      "img": "img/portfolio/06.jpg",
+      "title": "Forward Together",
+      "description": "Website Responsive Design"
     }
   ],
   "portfolioDetails": [
