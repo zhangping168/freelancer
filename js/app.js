@@ -2,7 +2,7 @@ var app = angular.module('app', []);
 app.controller('appCtrl', function ($scope, $http) {
 	$http.get('js/data.json').success(function (data) {
 		$scope.data = data;
-		console.log(data);
+		
 	}).error(function () {
 		throw new Error('Could not find the json file');
 	});

@@ -28,55 +28,55 @@
   "services": [
     {
       "imgclass": "fa-shopping-cart",
-      "heading": "E-Commerce",
-      "text": "E-Commerce : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      "heading": "Custom Web Development",
+      "text": "Providing quick reponse problem solving solution with our expert architechts and wed developers and keep our development works with latest cutting-edge technology."
     },
     {
       "imgclass": "fa-laptop",
-      "heading": "Responsive Design",
-      "text": "Responsive Design : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      "heading": "Web And Application Design",
+      "text": "Using the latest frameworks combined with responsive HTML5 and CSS3 to create unique, reliable and mobile presence for your brand or ogranization."
     },
     {
       "imgclass": "fa-lock",
-      "heading": "Web Security",
-      "text": "Web Security : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      "heading": "Web Application Security",
+      "text": "Reliable service for Known Web Security Vulnerabilities and Unknown Vulnerabilities, Providing affordable and quick solution for small and large size orgnizations"
     }
   ],
   "portfolios": [
     {
       "link": "#portfolioModal1",
       "img": "img/portfolio/roundicons.png",
-      "title": "Round Icons",
+      "title": "1 Round Icons",
       "description": "Graphic Design"
     },
     {
       "link": "#portfolioModal2",
       "img": "img/portfolio/startup-framework.png",
-      "title": "Startup Framework",
+      "title": "2 Startup Framework",
       "description": "Website Design"
     },
     {
       "link": "#portfolioModal3",
       "img": "img/portfolio/treehouse.png",
-      "title": "Treehouse",
+      "title": "3 Treehouse",
       "description": "Website Design"
     },
     {
       "link": "#portfolioModal4",
       "img": "img/portfolio/golden.png",
-      "title": "Golden",
+      "title": "4 Golden",
       "description": "Website Design"
     },
     {
       "link": "#portfolioModal5",
       "img": "img/portfolio/escape.png",
-      "title": "Escape",
+      "title": "5 Escape",
       "description": "Website Design"
     },
     {
       "link": "#portfolioModal6",
       "img": "img/portfolio/dreams.png",
-      "title": "Dreams",
+      "title": "6 Dreams",
       "description": "Website Design"
     }
   ],
