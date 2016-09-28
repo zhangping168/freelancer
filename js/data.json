@@ -2,25 +2,25 @@
   "timelines": [
     {
       "title": "2015 - Present",
-      "img": "img/about/1.jpg",
+      "img": "img/about/3.jpg",
       "heading": "Freelance + Consultancy Services",
       "body": "Providing consultancy services for web / mobile development for large scale CMS websites or client-side web apps."
     },
     {
       "title": "2012 - 2015",
-      "img": "img/about/1.jpg",
+      "img": "img/about/3.jpg",
       "heading": "Font-end Developer | Isobar Canada",
       "body": "Collaborated with art director, project managers and designers to develop websites, social promotion campaigns for Canadian Art, J.P.Wiser's, mackenzie investments and Mattel Canada."
     },
     {
       "title": "2012",
-      "img": "img/about/1.jpg",
+      "img": "img/about/3.jpg",
       "heading": "Contractor | Pitney Bowes Toronto",
       "body": "Contracted under IT Angecy, working on site with clients, resposbile for web application compatibility testing and issue fixing."
     },
     {
       "title": "2010-2011",
-      "img": "img/about/1.jpg",
+      "img": "img/about/3.jpg",
       "heading": "Web Master | Open Jaw Network",
       "body": "Responsible for two websites maintenance and features updates including Front-end and Back-end."
     }
@@ -43,6 +43,25 @@
     }
   ],
  "portfolios": [
+ {
+      "link": "#portfolioModal1",
+      "img": "img/portfolio/01.jpg",
+      "title": "J.P. Wiser’s Canadian Whisky",
+      "description": "Website Responsive Design"
+    },
+	
+	{
+      "link": "#portfolioModal1",
+      "img": "img/portfolio/01.jpg",
+      "title": "J.P. Wiser’s Canadian Whisky",
+      "description": "Website Responsive Design"
+    },
+	{
+      "link": "#portfolioModal1",
+      "img": "img/portfolio/01.jpg",
+      "title": "J.P. Wiser’s Canadian Whisky",
+      "description": "Website Responsive Design"
+    },
     {
       "link": "#portfolioModal1",
       "img": "img/portfolio/01.jpg",
